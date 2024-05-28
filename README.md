@@ -1,0 +1,4 @@
+git checkout 2ab0c76205d3bdb75ca24591b536747620d1df7f
+
+terraform init
+terraform apply
