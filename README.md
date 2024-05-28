@@ -9,3 +9,6 @@ terraform apply
 git checkout 181663bb532a88ff367d812dd339af955b2a4a21
 terraform init
 terraform apply
+
+git checkout d2389c4531dc46321f1d67ea4613d0fdf1cca0b8
+terraform apply
