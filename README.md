@@ -12,3 +12,6 @@ terraform apply
 
 git checkout d2389c4531dc46321f1d67ea4613d0fdf1cca0b8
 terraform apply
+
+git checkout 612ef0064216c97eeaafc55c47d3a922774a578d
+kubectl apply -f k8s/provisioner.yaml
