@@ -5,3 +5,7 @@ terraform apply
 
 git checkout fdc543bc602a809868cb6ff722bf97be8e83b7f6
 terraform apply
+
+git checkout 181663bb532a88ff367d812dd339af955b2a4a21
+terraform init
+terraform apply
